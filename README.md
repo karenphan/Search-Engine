@@ -1,1 +1,2 @@
 # Search-Engine
+A small-scale search engine project developed with two other students for an information retrieval class at UCI. This search engine can parse through 37,500 HTML documents, score each document, and return a list of URLs most closely related to a users’ search query. The TF-IDF score and tag weights were used to rank the webpages accordingly. We also designed a simple GUI that allowed users to simply enter their query into a box, press the 'DONE' button, and receive clickable URLs for the highest ranked webpages.
